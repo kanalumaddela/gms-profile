@@ -6,7 +6,8 @@
 // @author       kanalumaddela
 // @updateURL    https://raw.githubusercontent.com/kanalumaddela/gms-profile/master/gms-profile.js
 // @downloadURL  https://raw.githubusercontent.com/kanalumaddela/gms-profile/master/gms-profile.js
-// @supportURL   https://github.com/kanalumaddela/gms-profile
+// @supportURL   https://github.com/kanalumaddela/gms-profile/issues
+// @source       https://github.com/kanalumaddela/gms-profile
 // @match        *://steamcommunity.com/id/*
 // @match        *://steamcommunity.com/profiles/*
 // @connect      gmodstore.com

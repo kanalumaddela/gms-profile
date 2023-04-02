@@ -4,6 +4,9 @@
 // @version      0.1
 // @description  Destroy Nobody's attempt at this!
 // @author       kanalumaddela
+// @updateURL    https://raw.githubusercontent.com/kanalumaddela/gms-profile/master/gms-profile.js
+// @downloadURL  https://raw.githubusercontent.com/kanalumaddela/gms-profile/master/gms-profile.js
+// @supportURL   https://github.com/kanalumaddela/gms-profile
 // @match        *://steamcommunity.com/id/*
 // @match        *://steamcommunity.com/profiles/*
 // @connect      gmodstore.com
